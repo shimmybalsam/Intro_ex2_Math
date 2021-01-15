@@ -1,0 +1,50 @@
+shimmy10
+204693352
+
+Shimon Balsam
+
+
+I discussed the exercise with: Nobody.
+
+
+
+=============================
+=======================
+= README for ex2: 
+convert_spoon_to_cup.py, calculate_mathematical_expression.py,
+largest_and_smallest.py, quadratic_equation.py, shapes.py and bmi.py
+====================================================
+
+
+
+
+=================================================================
+=  Description: =
+6 programs used to solve the day to day difficulties of the wizarding world:
+
+The first helops Ron calculate how many cups, as apposed to spoons, he needs for potions.
+
+The second helps Hermione solve the Quiddich team's math homework
+and then, thanx to Fred and George, also forms into an application to do the same for all of Gryffindor.
+
+The third finds the largest and smallest numbers out of three given numbers,
+helping proffesor Mcgonical choose which classwork to give.
+
+The fourth helps Dudley solve quadratic equations, both interactively and not.
+
+The fifth, interactively calculates the areas of shapes, helping Harry with his Geomatry homework.
+
+The six calculates Hagrid's (and anyone else's) BMI.
+=================================================================
+
+
+
+
+======================
+=  
+Special Comments  
+=
+======================
+
+
+none
